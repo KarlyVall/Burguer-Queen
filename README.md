@@ -94,9 +94,9 @@ costo total.
 
 ## 3. Objetivos de aprendizaje
 
-1. El objetivo principal de es aprender a construir una _interfaz web_ usando
-   el _framework_ React. Este (y otros) frameworks de
-   Front-end atacan el mismo problema: **cómo mantener la interfaz y el estado
+1. El objetivo principal de este proyecto es aprender a construir una _interfaz web_ usando
+   la _librería_ React. Este (y otros) frameworks de
+   front-end atacan el mismo problema: **cómo mantener la interfaz y el estado
    sincronizados**. Así que esta experiencia espera familiarizarte con el
    concepto de _estado de pantalla_, y cómo cada cambio sobre el estado se va a
    ir reflejando en la interfaz (por ejemplo, cada vez que agregamos un
@@ -113,9 +113,7 @@ Este proyecto se debe "resolver" de forma individual.
 Trabaja en una historia hasta terminarla antes de pasar a la siguiente. Trabaja
 hasta la historia que puedas en el tiempo especificado.
 
-La lógica del proyecto debe estar implementada completamente en JavaScript
-(ES6+), HTML y CSS y empaquetada de manera automatizada.
-En este proyecto utilizaremos [React](https://reactjs.org/).
+La lógica del proyecto debe estar implementada completamente en [React](https://reactjs.org/).
 
 La aplicación debe ser un _Single Page App_. Los pedidos los tomaremos desde una
 _tablet_, pero **no queremos una app nativa**, sino una web app que sea
@@ -134,7 +132,7 @@ _lines_ y _branches_.
 
 
 ## 5. Pistas, tips y lecturas complementarias
-#### Frameworks / libraries
+#### Frameworks / librerías
 
 * [React](https://reactjs.org/)
 * [Vue](https://vuejs.org/)
