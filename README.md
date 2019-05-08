@@ -30,8 +30,7 @@ en los que primero hay que asegurarse de cumplir con lo requerido.
 
 Un pequeño restaurante de hamburguesas, que está creciendo, necesita una
 interfaz en la que puedan tomar pedidos usando una _tablet_, y enviarlos
-a la cocina para que se preparen ordenada y eficientemente (a través de un
-  _backend_ del que nos darán detalles más adelante).
+a la cocina para que se preparen ordenada y eficientemente.
 
 ![burger-queen](https://user-images.githubusercontent.com/110297/42118136-996b4a52-7bc6-11e8-8a03-ada078754715.jpg)
 
