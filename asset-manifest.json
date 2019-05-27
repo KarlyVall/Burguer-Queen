@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/gdl002-burger-queen/static/css/main.c0542903.chunk.css",
+    "main.js": "/gdl002-burger-queen/static/js/main.52f5817a.chunk.js",
+    "main.js.map": "/gdl002-burger-queen/static/js/main.52f5817a.chunk.js.map",
+    "runtime~main.js": "/gdl002-burger-queen/static/js/runtime~main.e107886b.js",
+    "runtime~main.js.map": "/gdl002-burger-queen/static/js/runtime~main.e107886b.js.map",
+    "static/css/2.16f3017c.chunk.css": "/gdl002-burger-queen/static/css/2.16f3017c.chunk.css",
+    "static/js/2.9931c111.chunk.js": "/gdl002-burger-queen/static/js/2.9931c111.chunk.js",
+    "static/js/2.9931c111.chunk.js.map": "/gdl002-burger-queen/static/js/2.9931c111.chunk.js.map",
+    "index.html": "/gdl002-burger-queen/index.html",
+    "precache-manifest.21889166af7653e937bdf0ad4d6784ad.js": "/gdl002-burger-queen/precache-manifest.21889166af7653e937bdf0ad4d6784ad.js",
+    "service-worker.js": "/gdl002-burger-queen/service-worker.js",
+    "static/css/2.16f3017c.chunk.css.map": "/gdl002-burger-queen/static/css/2.16f3017c.chunk.css.map",
+    "static/css/main.c0542903.chunk.css.map": "/gdl002-burger-queen/static/css/main.c0542903.chunk.css.map",
+    "static/media/mdb.css": "/gdl002-burger-queen/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/bq.png": "/gdl002-burger-queen/static/media/bq.e05616e4.png",
+    "static/media/bqueen.png": "/gdl002-burger-queen/static/media/bqueen.31b6c529.png",
+    "static/media/font-awesome.min.css": "/gdl002-burger-queen/static/media/fontawesome-webfont.fee66e71.woff"
+  }
+}
