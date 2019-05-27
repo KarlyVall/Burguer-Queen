@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Ranga&display=swap');
+
+#nav {
+  background-image: linear-gradient(to right, #f83600 0%, #f9d423 100%);
+}
+
+#titule2 {
+  font-family: 'Ranga', cursive;
+  font-size: 30px;
+  color:white;
+}
+
+#titule3 {
+  color: white;
+}

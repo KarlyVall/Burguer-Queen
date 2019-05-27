@@ -1,0 +1,22 @@
+#card5 {
+  text-align: left;
+  margin: 2px;
+  margin-right: 30px;
+}
+
+#card6 {
+  text-align: left;
+  margin: 2px;
+  padding-right: 30px;
+}
+
+#input {
+  text-align: left;
+  margin: 2px;
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+.btn-primary {
+  background-color: #ffc107 !important;
+    color: #ff3547;
+}
