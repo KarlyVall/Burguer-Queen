@@ -47,12 +47,13 @@ class Login extends React.Component {
                 <CardBody>
                   <form>
                     <center>
-                      <img width="120px" src={logo} alt="logo" />
+                      <img width="290px" src={logo} alt="logo" />
                       <p
                         id="titule"
                         className="h4 text-center py-2 titule secondary-text"
                       />
                     </center>
+                    <div className="titulo">BURGER QUEEN</div>
                     <div className="grey-text">
                       <Input
                         value={this.state.email}
