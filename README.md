@@ -1,4 +1,5 @@
-### Burger Queen
+### Burger Queen :tw-1f354: :tw-1f35f:
+
 
 ##Objectivo
 El objetivo principal de este proyecto es aprender a construir una interfaz web usando la librería React. Este (y otros) frameworks de front-end atacan el mismo problema: cómo mantener la interfaz y el estado sincronizados. Así que esta experiencia espera familiarizarte con el concepto de estado de pantalla, y cómo cada cambio sobre el estado se va a ir reflejando en la interfaz (por ejemplo, cada vez que agregamos un producto a un pedido, la interfaz debe actualizar la lista del pedido y el total).
