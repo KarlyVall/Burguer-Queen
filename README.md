@@ -1,68 +1,25 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+### Burger Queen
 
-## Available Scripts
+##Objectivo
+El objetivo principal de este proyecto es aprender a construir una interfaz web usando la librería React. Este (y otros) frameworks de front-end atacan el mismo problema: cómo mantener la interfaz y el estado sincronizados. Así que esta experiencia espera familiarizarte con el concepto de estado de pantalla, y cómo cada cambio sobre el estado se va a ir reflejando en la interfaz (por ejemplo, cada vez que agregamos un producto a un pedido, la interfaz debe actualizar la lista del pedido y el total).
+La lógica de este proyecto fué implementada con react.
 
-In the project directory, you can run:
+##Resumen del proyecto
+Esta vez tenemos un proyecto 100% por encargo. Si bien siempre puedes (y debes) hacer sugerencias de mejoras y/o cambios, muchas veces trabajarás en proyectos en los que primero hay que asegurarse de cumplir con lo requerido.
 
-### `npm start`
+Un pequeño restaurante de hamburguesas, que está creciendo, necesita una interfaz en la que puedan tomar pedidos usando una tablet, y enviarlos a la cocina para que se preparen ordenada y eficientemente.
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## Tecnologías utilizadas
+React js
+Fire base
+Router
+Boostrap
+Google fonts
+Font Awesome
+mdb react
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
 
-### `npm test`
+![](https://lh3.googleusercontent.com/2MN6ePNf8tlD94DC9ZRtkMOI1rJrRt_Ieuc0CK6aaceBpzy_gvofiR8o0uA8sB4USDIGGuG-7GHBxf57D8jF5l_YaZGXkszYU44NGejaiFvAyxGymrf3Arln1gdJMTwhOfh9CudiSKqhu6Okhb5_r96MrdIBk175JPwyEuhjQCxzczlh5-fL_RwPX1FT7EVpZCTDeB_7yuX7th_57OqvKVLrm3kzI4auf6tcTUDDtAxLNwhSU8XvXWK7ppbw2x9V-FOW-1wgx0sB3hGDUy3cxMnKynvxwQsHFUSyD_j6nXOAyhAD5v3csyLXFKpQRnuRatIBOc83UHI78ZVgb_M2oLU6qmynDCC2XWZVC7xuOf3flxLK9SHBwMd63DHelN1CIXQQyz1JbCyhKtkGJ2jBFwM3Y3Ahmg8nrIZKo-ucF_gWC3dtr5oRTLTtoB9dzQ9_H6CTaHXnDlUvKijGdxYSZE9G_1rY6n1ye9RTDz6iKDCugOgUxc0H2hSZd4FMcD66IGmoBY7FrIfVcrhTzNt8o7UaJ0jeudG9xGYJ1hcBBp5xut4ujGm0n8okcCttlY051fhPAIxkXfXQOKTwnJFhszd38P2ITE20j1Rx0zpPj6NgT7toMSuzgC_qbIcojEfIdxKWmANomQs5_a1HDmS6Cw9XF--0BB-6WxCwzKgL2ru0hx4g2I5U4jM3ztcAlTObAbhpoRigRn6CQQNCOURzRFMK=w815-h536-no)
 
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+![](https://lh3.googleusercontent.com/Iw6mgWpBO67ldgDLqb8krLB_Vj-aBgo87ihnF5q6RbvrmJDCrnh3HB4Pvw8Pm30D2vTx6a38pqLaHT33wLeFWSKh6_74d8CQhrakr5xUtkxdFAKur9xzKTXSqqRvXkbtsUQUwAPAEi6Bw0__cy5TRNcQFK_bRw23Ub2ZzZEbxiOBjJ_EX9TEaufgTq5MQAV19U5e76JU54X8peBQCmKtUiQIpEvuYvJKkHfgel8xM8P16y2EuS5dfDbzDn79kgsfDc_svJo-OJPkZuNEFpkBMiidzi6eDrR93ErIyrP5koUtpNZOxvrcWysReaN2rbSHJKaLmbWr9_7_4fCT5_HPliwql90vM4BY9YfmSOp7JyjDHKH4fwo-Brj1U3JQ4o3DQmee0v-04mHTMRfc-suiwLvgav1Pf_uAvqQXHPbQqreFDMVLEqptqKb7dBhArq5U7oBDEwATtI3wWUrNbh3lJxwn9jabnLazUzAPmnEbyHMm38yGxIOcLvOP6E9UYPTJeykfW7E_fampl-y2-ldFPmNunIdNh-nupW2URmeQoomQ_yhG6MlMWeZk47-HlX_5HOHctyM-OnmbmEooNzwS-UaTdZtst4NgHPdxfhlU5ZRzqwDSscj5KLRr-4ZG1XNR-6qPiwbzrFwXCmT9a5etixBPj2VKu8bEoSz4Ph-ldYZey4_pDOIaAYRnZn0bo3PeN1_iTICH9lDZvWqXWm42oaC4=w835-h538-no)
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

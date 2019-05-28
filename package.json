@@ -2,6 +2,7 @@
   "name": "gdl002-burger-queen",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://karlyvall.github.io/gdl002-burger-queen",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.18",
     "@fortawesome/free-solid-svg-icons": "^5.8.2",
@@ -15,6 +16,8 @@
     "react-scripts": "3.0.1"
   },
   "scripts": {
+    "predeploy": "yarn run build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
